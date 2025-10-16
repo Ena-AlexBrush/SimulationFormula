@@ -1,3 +1,4 @@
+#✨Worked with Tribhuvani Ayyagari, Naga Gunukula, and Nikitha Rambothula✨
 import matplotlib
 matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
